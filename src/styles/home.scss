@@ -49,6 +49,14 @@ h2 {
       justify-content: center;
       p {
         margin: 10px 0;
+        a {
+          color: #fff;
+          text-decoration: none;
+          cursor: pointer;
+          &:hover {
+            text-decoration: none;
+          }
+        }
       }
     }
     .box-right {

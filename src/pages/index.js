@@ -46,7 +46,7 @@ const IndexPage = () => (
       <div className="container-fale">
         <div className="box-left">
           <p>juliofesso@gmail.com</p>
-          <p>(31)8888-8888</p>
+          <p><a href="https://api.whatsapp.com/send?phone=5531992336335&text=Ol%C3%A1%2C%20vi%20o%20site%20da%20ONG%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es">(31)99233-6335</a></p>
         </div>
         <div className="box-right">
           <p>
