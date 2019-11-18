@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+#___gatsby {
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
+button {
+  cursor: pointer;
+}

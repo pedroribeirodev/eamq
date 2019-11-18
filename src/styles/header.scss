@@ -1,0 +1,25 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  img {
+    width: 100px;
+    padding-left: 20px;
+  }
+  ul {
+    display: flex;
+    li {
+      list-style: none;
+      font-family: 'Roboto Slab', serif;
+      font-size: 16px;
+      text-transform: uppercase;
+      padding: 0 20px;
+      cursor: pointer;
+      &:hover {
+        font-weight: bold;
+        
+      }
+    }
+  }
+}
